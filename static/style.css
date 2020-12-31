@@ -1,0 +1,57 @@
+:root {
+  /* Main color 1 */
+  --m1:#ffffff;
+  /* Main color 2 */
+  --m2:#808080;
+  /* Accent color */
+  --a:#000000;
+  /* Accent color 2 */
+  --a2:#606060;
+}
+
+.circle-widget {
+  /* golden ratio of parent (~one third) */
+  width: 31vmin;
+  height: 31vmin;
+
+  /* align center */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+  /* debug */
+  /*border: 1px solid var(--a);*/
+}
+
+.circle-widget h1 {
+  color: var(--a);
+}
+
+.circle-widget h2 {
+  color: var(--a2);
+}
+
+.circle {
+  /* circles match parent position and size by default*/
+
+  /* make a circle by rounding all corners of the element by 50 % */
+  border-radius: 50%;
+
+  /* pivot from center to center perfect */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+  /* circles use second main color by default, to be differentiable from bg (which is m1) */
+  background: var(--m2);
+  /*border-color: var(--m2);*/
+
+  /* debug */
+  /*border: 0.1875em solid #0F1C3F;*/
+  height: 100%;
+  width: 100%;
+}
