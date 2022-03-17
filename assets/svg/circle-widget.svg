@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1408"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="circle-widget.svg">
+  <defs
+     id="defs1402" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.4856031"
+     inkscape:cx="-26.04658"
+     inkscape:cy="23.439612"
+     inkscape:document-units="px"
+     inkscape:current-layer="g878"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1858"
+     inkscape:window-height="1177"
+     inkscape:window-x="1432"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata1405">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="base"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:0.204879;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path1971"
+       cx="16"
+       cy="16"
+       r="16" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="pie"
+     style="display:inline">
+    <circle
+       style="fill:#808080;fill-opacity:1;stroke-width:5.16481"
+       id="path832"
+       cx="16"
+       cy="16"
+       r="15" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g884"
+     inkscape:label="pie: key text"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.66667px;line-height:2.20003px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;direction:ltr;text-anchor:middle;fill:#606060;fill-opacity:1;stroke:none;stroke-width:0.411072"
+       x="15.99787"
+       y="22.726603"
+       id="text882"><tspan
+         sodipodi:role="line"
+         x="15.99787"
+         y="22.726603"
+         style="font-size:2.66667px;text-align:center;text-anchor:middle;fill:#606060;fill-opacity:1;stroke-width:0.411072"
+         id="tspan880">[press a long key]</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g878"
+     inkscape:label="pie: main text"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.88786px;line-height:2.6px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.445168"
+       x="16.1695"
+       y="12.122097"
+       id="text876"><tspan
+         sodipodi:role="line"
+         x="16.1695"
+         y="12.122097"
+         style="font-size:2.88786px;text-align:center;text-anchor:middle;stroke-width:0.445168"
+         id="tspan870">Label:</tspan><tspan
+         sodipodi:role="line"
+         x="16.1695"
+         y="14.722096"
+         style="font-size:2.88786px;text-align:center;text-anchor:middle;stroke-width:0.445168"
+         id="tspan872">one long sentence</tspan><tspan
+         sodipodi:role="line"
+         x="16.1695"
+         y="17.322096"
+         style="font-size:2.88786px;text-align:center;text-anchor:middle;stroke-width:0.445168"
+         id="tspan874">with three lines</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g836"
+     inkscape:label="left-pie"
+     style="display:none">
+    <circle
+       style="fill:#808080;fill-opacity:1;stroke-width:5.16481"
+       id="circle834"
+       sodipodi:type="arc"
+       sodipodi:cx="16"
+       sodipodi:cy="16"
+       sodipodi:rx="15"
+       sodipodi:ry="15"
+       sodipodi:start="1.5882496"
+       sodipodi:end="4.6949357"
+       sodipodi:arc-type="arc"
+       d="M 15.738214,30.997715 A 15,15 0 0 1 1,16 15,15 0 0 1 15.738214,1.0022846"
+       sodipodi:open="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="left-pie: main text"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.34965px;line-height:2.11525px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.362179"
+       x="14.67072"
+       y="8.6826706"
+       id="text845"><tspan
+         sodipodi:role="line"
+         x="14.67072"
+         y="8.6826706"
+         style="font-size:2.34965px;text-align:end;text-anchor:end;stroke-width:0.362179"
+         id="tspan847">Label:</tspan><tspan
+         sodipodi:role="line"
+         x="14.67072"
+         y="10.79792"
+         style="font-size:2.34965px;text-align:end;text-anchor:end;stroke-width:0.362179"
+         id="tspan886">one long</tspan><tspan
+         sodipodi:role="line"
+         x="14.67072"
+         y="12.913171"
+         style="font-size:2.34965px;text-align:end;text-anchor:end;stroke-width:0.362179"
+         id="tspan853">sentence</tspan><tspan
+         sodipodi:role="line"
+         x="14.67072"
+         y="15.02842"
+         style="font-size:2.34965px;text-align:end;text-anchor:end;stroke-width:0.362179"
+         id="tspan898">with five</tspan><tspan
+         sodipodi:role="line"
+         x="14.67072"
+         y="17.143671"
+         style="font-size:2.34965px;text-align:end;text-anchor:end;stroke-width:0.362179"
+         id="tspan904">lines</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g863"
+     inkscape:label="left-pie: key text"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.27047px;line-height:1.98663px;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;direction:ltr;text-anchor:end;fill:#606060;fill-opacity:1;stroke:none;stroke-width:0.466666"
+       x="14.56183"
+       y="21.921953"
+       id="text861"><tspan
+         sodipodi:role="line"
+         x="14.56183"
+         y="21.921953"
+         style="font-size:2.27047px;text-align:end;text-anchor:end;fill:#606060;fill-opacity:1;stroke-width:0.466666"
+         id="tspan859">press a</tspan><tspan
+         sodipodi:role="line"
+         x="14.56183"
+         y="23.908583"
+         style="font-size:2.27047px;text-align:end;text-anchor:end;fill:#606060;fill-opacity:1;stroke-width:0.466666"
+         id="tspan906">long key</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g840"
+     inkscape:label="right-pie"
+     style="display:none">
+    <circle
+       style="fill:#808080;fill-opacity:1;stroke-width:5.16481"
+       id="circle838"
+       sodipodi:type="arc"
+       sodipodi:cx="16"
+       sodipodi:cy="16"
+       sodipodi:rx="15"
+       sodipodi:ry="15"
+       sodipodi:start="4.7298423"
+       sodipodi:end="1.553343"
+       sodipodi:arc-type="arc"
+       d="M 16.261787,1.0022846 A 15,15 0 0 1 31,16 15,15 0 0 1 16.261787,30.997715"
+       sodipodi:open="true" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g916"
+     inkscape:label="right-pie: key text"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.27047px;line-height:1.98663px;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;direction:ltr;text-anchor:start;fill:#606060;fill-opacity:1;stroke:none;stroke-width:0.466666"
+       x="17.242699"
+       y="21.921953"
+       id="text914"><tspan
+         sodipodi:role="line"
+         x="17.242699"
+         y="21.921953"
+         style="font-size:2.27047px;text-align:start;text-anchor:start;fill:#606060;fill-opacity:1;stroke-width:0.466666"
+         id="tspan910">press a</tspan><tspan
+         sodipodi:role="line"
+         x="17.242699"
+         y="23.908583"
+         style="font-size:2.27047px;text-align:start;text-anchor:start;fill:#606060;fill-opacity:1;stroke-width:0.466666"
+         id="tspan912">long key</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g930"
+     inkscape:label="right-pie: main text"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.34965px;line-height:2.11525px;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.362179"
+       x="17.423853"
+       y="8.6826706"
+       id="text928"><tspan
+         sodipodi:role="line"
+         x="17.423853"
+         y="8.6826706"
+         style="font-size:2.34965px;text-align:start;text-anchor:start;stroke-width:0.362179"
+         id="tspan918">Label:</tspan><tspan
+         sodipodi:role="line"
+         x="17.423853"
+         y="10.79792"
+         style="font-size:2.34965px;text-align:start;text-anchor:start;stroke-width:0.362179"
+         id="tspan920">one long</tspan><tspan
+         sodipodi:role="line"
+         x="17.423853"
+         y="12.913171"
+         style="font-size:2.34965px;text-align:start;text-anchor:start;stroke-width:0.362179"
+         id="tspan922">sentence</tspan><tspan
+         sodipodi:role="line"
+         x="17.423853"
+         y="15.02842"
+         style="font-size:2.34965px;text-align:start;text-anchor:start;stroke-width:0.362179"
+         id="tspan924">with five</tspan><tspan
+         sodipodi:role="line"
+         x="17.423853"
+         y="17.143671"
+         style="font-size:2.34965px;text-align:start;text-anchor:start;stroke-width:0.362179"
+         id="tspan926">lines</tspan></text>
+  </g>
+</svg>
